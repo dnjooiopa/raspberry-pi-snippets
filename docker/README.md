@@ -1,4 +1,4 @@
-## Docker CE
+# Docker CE
 
 ```sh
 sudo apt-get update && sudo apt-get upgrade -y
@@ -12,7 +12,7 @@ sudo systemctl enable docker
 sudo reboot
 ```
 
-## Docker Compose
+# Docker Compose
 
 ```sh
 sudo apt -y install python3-pip
